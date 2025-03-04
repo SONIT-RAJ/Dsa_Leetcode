@@ -1,4 +1,4 @@
 # Dsa_Cp
-This is my DSA and CP repository.
+This is my DSA repository containing Leetcode Q&A
 <br>
 Author : Sonit Raj
