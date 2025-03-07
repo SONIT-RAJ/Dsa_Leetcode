@@ -7,7 +7,7 @@ Leetcode 2965 - Find Missing and Repeated Values
 Date- 06/03/2025
 
 TC - O(n*n)
-SC - O(n)
+SC - O(n*n)
 
 */
 
