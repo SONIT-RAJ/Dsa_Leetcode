@@ -7,7 +7,7 @@ Leetcode 763 - Partition Labels
 Date- 30/03/2025
 
 TC - O(n)
-SC - O(n)
+SC - O(1)(as ans and mpp can max be of 26 of size)
 
 */
 class Solution {
