@@ -10,7 +10,7 @@ TC - O(n)
 SC - O(1)
 
 */
-class Solution {
+class Solution {//important question
     public:
         vector<int> buildArray(vector<int>& nums) {
             int n = nums.size();
